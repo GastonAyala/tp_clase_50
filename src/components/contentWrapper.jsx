@@ -1,7 +1,7 @@
 import React from 'react'
-import TopBar from './topbar'
-import Footer from './footer.jsx';
-import ContentRowTop from './contentRowTop.jsx';
+import TopBar from './Topbar.jsx'
+import Footer from './Footer.jsx';
+import ContentRowTop from './ContentRowTop.jsx';
 
 function ContentWrapper() {
   return (

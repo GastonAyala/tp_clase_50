@@ -1,7 +1,7 @@
 import React from 'react'
-import ContentRowMovies from './contentRowMovies.jsx'
-import LastMovieInDb from './lastMovieInDb.jsx'
-import GenresInDb from './genresInDb.jsx'
+import ContentRowMovies from './ContentRowMovies.jsx'
+import LastMovieInDb from './LastMovieInDb.jsx'
+import GenresInDb from './GenresInDb.jsx'
 
 function ContentRowTop() {
     return (
